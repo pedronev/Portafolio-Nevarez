@@ -1,77 +1,79 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Pedro Nevarez Tellez",
+    "occupation": "Fullstack developer",
+    "description": "React / Node / NextJs",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "Enthusiastic software developer learning something new every day and trying to live different experiences, learn and evolve, working mainly on web and android apps, great adaptability, team working and rapid learning of new technologies.",
+    "contactmessage": "Get in touch with me!",
+    "email": "pedro_nevarez_tz@hotmail.com",
+    "phone": "+52 6673893023",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "123 Dev Lane",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "zip": "México"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/pedro-nevarez/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/pedro_nevarez/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/pedronev",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
+        "school": "Universidad Autonoma de Guadalajara",
+        "degree": "Software Engineer",
+        "graduated": "January 2015 - June 2019",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Unima",
+        "title": "Front-End Developer",
+        "years": "January 2018 - present",
+        "description": "React developing (using class components, Hooks, maps, Axios and React Router) sometimes work using Java Spring Boot for backend"
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Orange Cloud",
+        "title": "Fullstack Developer",
+        "years": "January 2018 - September 2018",
+        "description": "Develope costume enterprise software using Angular 10, TFS, SQL Server and Microsoft .NET for the following projects: \t1.-University system for booking classrooms or laboratories and lend school supplies. \n 2.-Android APP  for booking bus seats Tools: retrofit2, stripe, one signal. \n 3.- Angular PWA APP for receiving list of material in offline mode and when the user connects to  Wi-Fi it sends and receive all the data. \n Tools used: PWA, Service Worker, Indexeddb, Devextreme, ZXingScanner, Devextreme, bootstrap, Angular devkit, jqwidgets, Android studio."
+      },
+      {
+        "company": "Unima",
+        "title": "Android Developer",
+        "years": "January 2018 - September 2018",
+        "description": "Junior developer working on the android company app resolving problems such as: Camera compatibility for different devices, GPS connectivity, Forms."
+      },
+      {
+        "company": "Unima",
+        "title": "Android Developer",
+        "years": "January 2018 - September 2018",
+        "description": "Junior developer working on the android company app resolving problems such as: Camera compatibility for different devices, GPS connectivity, Forms."
+      },
+      {
+        "company": "IBM",
+        "title": "Software automation intership",
+        "years": "April 2017 - August 2017",
+        "description": "Internship using the program winautomation to create Macros for different types of process."
       }
     ],
     "skills": [
@@ -80,15 +82,15 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
+        "name": "Javascript",
         "level": "55%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "70%"
       },
       {
-        "name": "CSS",
+        "name": "Angular",
         "level": "90%"
       },
       {
@@ -96,7 +98,7 @@
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "Sql server",
         "level": "50%"
       },
       {
