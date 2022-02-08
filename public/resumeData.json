@@ -14,8 +14,8 @@
       "state": "Jalisco",
       "zip": "México"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.pedronevarez.com",
+    "resumedownload": "CV.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -46,7 +46,7 @@
     ],
     "work": [
       {
-        "company": "Unima",
+        "company": "Tata Consultancy Services",
         "title": "Front-End Developer",
         "years": "January 2018 - present",
         "description": "React developing (using class components, Hooks, maps, Axios and React Router) sometimes work using Java Spring Boot for backend"
@@ -55,7 +55,7 @@
         "company": "Orange Cloud",
         "title": "Fullstack Developer",
         "years": "January 2018 - September 2018",
-        "description": "Develope costume enterprise software using Angular 10, TFS, SQL Server and Microsoft .NET for the following projects: \t1.-University system for booking classrooms or laboratories and lend school supplies. \n 2.-Android APP  for booking bus seats Tools: retrofit2, stripe, one signal. \n 3.- Angular PWA APP for receiving list of material in offline mode and when the user connects to  Wi-Fi it sends and receive all the data. \n Tools used: PWA, Service Worker, Indexeddb, Devextreme, ZXingScanner, Devextreme, bootstrap, Angular devkit, jqwidgets, Android studio."
+        "description": "Develope costume enterprise software using Angular 10, TFS, SQL Server and Microsoft .NET for the following projects: \n\n1.-University system for booking classrooms or laboratories and lend school supplies. \n\n2.-Android APP  for booking bus seats Tools: retrofit2, stripe, one signal. \n\n3.- Angular PWA APP for receiving list of material in offline mode and when the user connects to  Wi-Fi it sends and receive all the data. \n\nTools used: PWA, Service Worker, Indexeddb, Devextreme, ZXingScanner, Devextreme, bootstrap, Angular devkit, jqwidgets, Android studio."
       },
       {
         "company": "Unima",
@@ -83,61 +83,58 @@
       },
       {
         "name": "Javascript",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
         "level": "70%"
       },
       {
-        "name": "Angular",
-        "level": "90%"
+        "name": "ReactJs",
+        "level": "80%"
       },
       {
-        "name": "HTML5",
+        "name": "Angular",
         "level": "80%"
+      },
+      {
+        "name": "Node js",
+        "level": "65%"
       },
       {
         "name": "Sql server",
-        "level": "50%"
+        "level": "75%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Aji China Bistro",
+        "category": "Landing page for a great restaurant",
+        "image": "aji.jpg",
+        "url": "http://ajichinabistro.com.mx/",
+        "desc": "HTML, CSS, Javascript"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Mayfe Ecommerce",
+        "category": "Ecommerce to buy different types of cosmetics",
+        "image": "Mayfe.jpeg",
+        "url": "http://www.pedronevarez.com",
+        "desc": "NextJs, Mongodb, Stripes, React"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Not Instagram",
+        "category": "Instagram clone with some personal changes",
+        "image": "test.jpg",
+        "url": "http://www.pedronevarez.com",
+        "desc": "NextJs, Tailwind, Firebase, NextAuth"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Test",
+        "category": "Coming soon",
+        "image": "test.jpg",
+        "url": "http://www.pedronevarez.com"
       }
     ]
   },
